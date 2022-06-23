@@ -1,0 +1,12 @@
+.navbar-inverse {
+    background-color: rgb(17, 236, 229);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: rgb(17, 33, 59);
+}
+
+@media only screen and (max-width: 500px) {
+    .navbar-inverse {
+        margin-top: 50px;
+    }
+}
