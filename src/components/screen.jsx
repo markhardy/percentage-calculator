@@ -1,5 +1,4 @@
 import { Component } from "react";
-import Input from "react-bootstrap/form";
 import "./screen.css";
 
 //const Screen = ({ value }) => {
